@@ -253,7 +253,7 @@ void TagsFile::write_file(const char* nomfichier){
 	f<<get_header()<<endl;
 	for (int j(0); j< tag_count; j++){
 		if (temp[j].state){
-			f<<temp[j].tag<<","<<temp[j].count<<","<<temp[j].last_det<<","<<temp[j].rot<<","<<temp[j].displacement_distance<<","<<temp[j].displacement_angle<<","<<temp[j].rayon<<","<<temp[j].trapezoid_length<<",";
+			f<<tag_list[j]<<","<<temp[j].count<<","<<temp[j].last_det<<","<<temp[j].rot<<","<<temp[j].displacement_distance<<","<<temp[j].displacement_angle<<","<<temp[j].rayon<<","<<temp[j].trapezoid_length<<",";
 			switch (temp[j].type){
 				case 1:
 					f<<"S,";
