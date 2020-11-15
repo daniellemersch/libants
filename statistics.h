@@ -1,8 +1,8 @@
 /*
  *  statistics.h
  *  
- *
- *  Copyright Danielle Mersch. All rights reserved.
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  *
  */
  

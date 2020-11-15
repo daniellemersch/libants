@@ -3,8 +3,8 @@
  *  the class implements methods to read one or more frames at a time from an existing file, move within the file,
  *  write new files, find frames with specific tags
  *
- *  Copyright (c) Danielle Mersch
- *
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  */
 
 #ifndef __datFile__

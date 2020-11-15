@@ -7,8 +7,8 @@
 			4. index extraction from list and validity testing
 			5. distance calculation between points
  *
- *  Copyright (c) Danielle Mersch
- *
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  */
 
 #ifndef __UTILS_H

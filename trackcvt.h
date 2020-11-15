@@ -1,7 +1,7 @@
 
 /*
 *
-*  Copyright (c) Alessandro Crespi & Danielle Mersch. All rights reserved.
+*  Copyright (c) Alessandro Crespi. All rights reserved.
 */
  
 #ifndef __TRACKCVT_H

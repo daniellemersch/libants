@@ -1,8 +1,8 @@
 /*
  *  datFile.cpp
  *  
- *
- *  Copyright (c) Danielle Mersch
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  *
  */
 #include <iostream>

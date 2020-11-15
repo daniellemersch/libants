@@ -2,8 +2,8 @@
  *  The exeception class allow to manage errors in a standardized way with error codes.
  *  It also permits to access error mesage from a graphic interface through a get_error method.
  *
- *  Copyright Danielle Mersch. All rights reserved.
- *
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  */
 
 #ifndef __exception__

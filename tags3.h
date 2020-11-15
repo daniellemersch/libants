@@ -1,8 +1,8 @@
 /*
  *  tags.h
  *  
- *
- *  Copyright (c) Danielle Mersch
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  *
  */
 

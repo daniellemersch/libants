@@ -1,8 +1,8 @@
 /*
  *  exception.cpp
  *  
- *
- *  Copyright Danielle Mersch
+ *  Created by Danielle Mersch
+ *  Copyright Unil. All rights reserved.
  *
  */
 
